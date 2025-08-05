@@ -26,9 +26,6 @@ This project automates water tank management by monitoring water levels using co
 
 Each sensor probe is connected to digital pins of Arduino through pull-down resistors. The pump is controlled via a relay on pin 7.
 
-![Circuit Diagram](assets/circuit_diagram.png)
-
-> ℹ️ Replace this placeholder with your actual circuit diagram image.
 
 ---
 
